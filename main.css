@@ -19,3 +19,9 @@ button{
     margin-bottom: 4rem;
     margin-right: 4rem;
 }
+.lds-ripple {
+    display: inline-block;
+    position: absolute;
+    width: 64px;
+    height: 64px;
+  }
