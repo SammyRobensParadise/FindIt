@@ -12,3 +12,10 @@ button{
     margin-top: 4rem;
     margin-bottom: 4rem;
 }
+.copyright{
+    float: right;
+    text-align: right;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    margin-right: 4rem;
+}
